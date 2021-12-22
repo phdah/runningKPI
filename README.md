@@ -1,5 +1,4 @@
 # runningKPI
-
 ----
 
 1. Fetch data from Garmin API
