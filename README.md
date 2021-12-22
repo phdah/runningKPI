@@ -2,6 +2,7 @@
 ----
 
 1. Fetch data from Garmin API
-2. Organize data 
-3. Analyze KPIs
-4. Visualize
+  * https://github.com/cyberjunky/python-garminconnect 
+3. Organize data 
+4. Analyze KPIs
+5. Visualize
